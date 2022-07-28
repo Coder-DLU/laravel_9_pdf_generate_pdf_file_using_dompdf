@@ -111,7 +111,5 @@ php artisan serve
 ``` 
 - Vào http://localhost:8000/generate-pdf
 bạn sẽ tải xuống tệp như dưới đây:
-```Dockerfile
-php artisan serve
-``` 
+laravel-9-pdf-file.pdf trong kho chứa của tôi
 Bây giờ chúng tôi đã sẵn sàng để chạy ví dụ này và kiểm tra nó ...
