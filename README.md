@@ -1,7 +1,7 @@
 # laravel_9_pdf_generate_pdf_file_using_dompdf
 ## 1. Install Laravel 9
 ```Dockerfile
-composer create-project laravel/laravel example-app
+composer create-project laravel/laravel laravel_9_pdf_generate_pdf_file_using_dompdf
 ```
 ## 2. Install DomPDF Package
 ```Dockerfile
